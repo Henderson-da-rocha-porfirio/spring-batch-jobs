@@ -9,4 +9,4 @@
 ## Componentes do Job:
 > - JobLauncher: responsável pela execução do Job.
 >
-> - JobRepository: mantém os metadados do job salvos.
+> - JobRepository: mantém os metadados do spring batch salvos.
