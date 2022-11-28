@@ -10,3 +10,9 @@
 > - JobLauncher: responsável pela execução do Job.
 >
 > - JobRepository: mantém os metadados do spring batch salvos.
+>
+> - JobInstance: Execução da lógica do Job do início ao fim até obter sucesso.
+>
+> - JobExecution: Execução física.
+>
+> - Contudo, o que define a criação de um JobInstance sao os parâmetros de execução(Job).
