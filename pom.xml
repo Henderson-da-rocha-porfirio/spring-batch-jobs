@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tuyo</groupId>
-	<artifactId>springbatch-teste</artifactId>
+	<artifactId>batch.jobs.springbatch-teste</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbatch-teste</name>
 	<description>Project for Spring Boot and Spring Batch</description>
