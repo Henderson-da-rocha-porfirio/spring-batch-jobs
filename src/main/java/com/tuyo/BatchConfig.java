@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.*;
 import org.springframework.context.annotation.*;
 
 /* 1. Job: tarefa que vai encapsular a rotina da batch.
- *  2. Builders: Cria jobs.
+ *  2. Builders: Cria job.
  *  3. A lógica dentro de um job é dividida em etapas que são chamadas de 'step'. Como ex. temos alí o 'start'.
  *  4. Build: constrói o job.
  *  5. tasklets: é o tipo do step. Muito usado para pequenas tarefas para pequenos programas que não
